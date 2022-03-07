@@ -16,7 +16,7 @@ I’ve been an e-commerce professional at one of Hungary’s largest fast fashio
 
 In this project there is a python script which takes in a dataframe of stock market symbols, downloads the latest financial data using the yfinance library, and writes it to a csv file. We will do exploratory data analysis on the resultant dataframe, and use value investing principles inspired by prof. Damodaran's NYU course and Joel Greenblatt's *The Little Book That Beats the Market* as guides to filter down the most undervalued companies by sector. (yfinance, NumPy, pandas, seaborn) [Link](https://github.com/daninemeth/daninemeth.github.io/tree/main/stock_screener)
 
-### Telco Churn prediction
+### Telco Churn Prediction
 
 An exploratory data analysis and some feature engineering on a telecom customer dataset. Then in the second part of the Jupyter Notebook I execute different tree based machine learning algorithms to predict whether a customer will cancel anytime soon. The methods implemented are: **Decision Tree, Random Forest, AdaBoost, and Gradient Boosting**, and then I compared their performance against each other. (NumPy, pandas, seaborn, scikit-learn) [Link](https://github.com/daninemeth/daninemeth.github.io/tree/main/churn_prediction)
 

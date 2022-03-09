@@ -28,7 +28,7 @@ df = pd.DataFrame(columns=['Ticker', 'Latest_price', 'sector', 'industry', 'mark
 filename = f"{input_file[:-4]}_{date.today()}.csv" # we need the date outside the for-loop, because midnight can cause problems
 
 df.to_csv(f"data/{filename}", index=False)
-i = 0 #a counter to show how far we progressed
+i = 0 #a counter to show how far we have progressed
 
 #looping through the ticker list and downloading data from yahoo finance, appending every row to the csv
 for ticker in tickers['Symbol']:
@@ -72,7 +72,7 @@ for ticker in tickers['Symbol']:
     except Exception as e:
         print(f"{e} for {ticker}")
         try:                                  
-                #for some reason only trailingPE breaks the loop if it's missing, evereything else is Nan
+                #for some reason only trailingPE breaks the loop if it's missing, everything else is Nan
 
             new_row.loc[len(new_row)] = {'Ticker': ticker.info['symbol'],
                         'Latest_price': ticker.info['currentPrice'],

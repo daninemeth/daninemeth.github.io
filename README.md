@@ -22,7 +22,7 @@ An exploratory data analysis and some feature engineering on a telecom customer 
 
 ### Sesame Street and Cognitive Development
 
-This project is a reproduction of the classic developmental psychology study on the Sesame Street tv show. We will explore the data, create new columns for the changes in cognitive abilities, and we'll do a **two sample t test** on the change in literacy among the regular viewers. At the end of the notebook I linearly regress the data tho determine the most important coefficients. (Numpy, SciPy, pandas, seaborn, scikit-learn) [Link](https://github.com/daninemeth/daninemeth.github.io/tree/main/sesame_street_cognition)
+This project is a reproduction of the classic developmental psychology study on the Sesame Street tv show. We will explore the data, create new columns for the changes in cognitive abilities, and we'll do a **two sample t test** on the change in literacy among the regular viewers. At the end of the notebook I linearly regress the data to determine the most important coefficients. (Numpy, SciPy, pandas, seaborn, scikit-learn) [Link](https://github.com/daninemeth/daninemeth.github.io/tree/main/sesame_street_cognition)
 
 ### Civil War prediction using econometrics
 

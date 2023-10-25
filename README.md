@@ -1,6 +1,6 @@
 # Data Science portfolio by Daniel Nemeth
 
-These projects belong to a previous phase in my career, showcasing the development of my skillset at that time.
+**These projects belong to a previous phase in my career, showcasing the development of my skillset at that time.**
 
 Within my current role, I am instrumental in implementing advanced data methodologies that streamline processing and reveal valuable insights. Navigating Google BigQuery and AWS Redshift adeptly, I extract and transform data efficiently. Developing dynamic dashboards and sophisticated BI applications is a significant aspect of my contributions, driving data-driven decision-making. Proficiency in conducting ad-hoc statistical analyses translates complex data into actionable insights, while my expertise in Python scripting and intricate SQL queries elevates operational efficiency.
 

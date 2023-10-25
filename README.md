@@ -1,14 +1,16 @@
 # Data Science portfolio by Daniel Nemeth
 
-I’ve been an e-commerce professional at one of Hungary’s largest fast fashion stores for 5 years. As a leader, a big part of my day-to-day job was analyzing the data related to sales, complaints, reviews, customer service KPIs, and communicating them to the other departments. In order to be more proficient, I pursued an education in statistics, programming, data science, and machine learning. Now I am looking to pivot to a more technical role. [Contact me](mailto:dnemeth@mailbox.org)
+These projects belong to a previous phase in my career, showcasing the development of my skillset at that time.
+
+Within my current role, I am instrumental in implementing advanced data methodologies that streamline processing and reveal valuable insights. Navigating Google BigQuery and AWS Redshift adeptly, I extract and transform data efficiently. Developing dynamic dashboards and sophisticated BI applications is a significant aspect of my contributions, driving data-driven decision-making. Proficiency in conducting ad-hoc statistical analyses translates complex data into actionable insights, while my expertise in Python scripting and intricate SQL queries elevates operational efficiency.
 
 ## Tech Stack
 
 * **Programming:**      Python
 * **Data Science:**     NumPy, SciPy, pandas, matplotlib, Seaborn, Excel, PowerBI
 * **Machine Learning:** scikit-learn
-* **Databases:**        SQL (PostgreSQL)
-* **Misc.:**            Linux (bash), git, JIRA, Postman
+* **Databases:**        SQL (PostgreSQL), BigQuery, AWS Redshift
+* **Misc.:**            Linux (bash), git, JIRA, Postman, Streamlit
 
 ## Projects
 
